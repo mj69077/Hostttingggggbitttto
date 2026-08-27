@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Minarets Left and Right -->
+    <path
+        android:fillColor="#0D5C3A"
+        android:pathData="M8,18 L14,18 L16,58 L6,58 Z" />
+    <path
+        android:fillColor="#0D5C3A"
+        android:pathData="M50,18 L56,18 L58,58 L48,58 Z" />
+    <!-- Minaret Peaks -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M11,10 L8,18 L14,18 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M53,10 L50,18 L56,18 Z" />
+    <!-- Main Center Dome -->
+    <path
+        android:fillColor="#0D5C3A"
+        android:pathData="M32,16 C20,24 18,36 18,44 L46,44 C46,36 44,24 32,16 Z" />
+    <!-- Mosque Main Body -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M16,44 L48,44 L48,58 L16,58 Z" />
+    <!-- Center Doorway Arch -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M27,48 C27,46 37,46 37,48 L37,58 L27,58 Z" />
+    <!-- Crescent -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M32,10 A3,3 0 1,1 32,15 A2,2 0 1,0 32,10 Z" />
+</vector>

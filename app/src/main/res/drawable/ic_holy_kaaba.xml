@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Kaaba Cube Shape -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M16,24 L48,24 L48,56 L16,56 Z" />
+    <path
+        android:fillColor="#2C2C2C"
+        android:pathData="M16,24 L32,12 L48,24 L32,36 Z" />
+    <!-- Golden Kiswah Band -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M16,30 L48,30 L48,34 L16,34 Z" />
+    <!-- Golden Door (Bab Al-Kaaba) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M24,40 L34,40 L34,56 L24,56 Z" />
+    <!-- Base Plate / Marble -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M8,56 L56,56 L56,60 L8,60 Z" />
+</vector>

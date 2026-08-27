@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Open Book Pages (Quran) -->
+    <path
+        android:fillColor="#FDFBF7"
+        android:pathData="M32,24 C22,20 12,22 8,26 L8,42 C12,38 22,36 32,40 C42,36 52,38 56,42 L56,26 C52,22 42,20 32,24 Z" />
+    <!-- Book Border / Gold Edges -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M32,22 C22,18 12,20 7,24 L8,26 C12,22 22,20 32,24 C42,20 52,22 56,26 L57,24 C52,20 42,18 32,22 Z" />
+    <!-- Wooden Stand (Rehal - X-shaped) -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M16,36 L48,58 L42,60 L12,38 Z" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M48,36 L16,58 L22,60 L52,38 Z" />
+</vector>

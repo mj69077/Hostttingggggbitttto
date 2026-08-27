@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Top Hanging Ring -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M32,4 A4,4 0 1,1 32,12 A4,4 0 1,1 32,4 M32,6 A2,2 0 1,0 32,10 A2,2 0 1,0 32,6 Z" />
+    <!-- Lantern Top Cap -->
+    <path
+        android:fillColor="#B8860B"
+        android:pathData="M24,14 L40,14 L36,18 L28,18 Z" />
+    <!-- Glass Body Middle (Glowing) -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M22,18 L42,18 L46,38 L38,48 L26,48 L18,38 Z" />
+    <!-- Inner Flame -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M32,24 C30,30 30,34 32,38 C34,34 34,30 32,24 Z" />
+    <!-- Lantern Base -->
+    <path
+        android:fillColor="#B8860B"
+        android:pathData="M26,48 L38,48 L42,54 L22,54 Z" />
+</vector>

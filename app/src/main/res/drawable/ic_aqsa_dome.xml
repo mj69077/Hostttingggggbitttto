@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Golden Dome of the Rock -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M32,8 C20,16 16,28 16,38 L48,38 C48,28 44,16 32,8 Z" />
+    <!-- Blue/Turquoise Tiles Base Octagon -->
+    <path
+        android:fillColor="#006064"
+        android:pathData="M12,38 L52,38 L52,58 L12,58 Z" />
+    <!-- Arches -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M18,46 L24,46 L24,58 L18,58 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M29,46 L35,46 L35,58 L29,58 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M40,46 L46,46 L46,58 L40,58 Z" />
+    <!-- Crescent -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M32,2 A4,4 0 1,1 32,8 A3,3 0 1,0 32,2 Z" />
+</vector>
